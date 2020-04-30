@@ -4,5 +4,5 @@ Many people struggle to get loans due to insufficient or non-existent credit his
 
 Through this project we strive to ensure this is not the case.As a Kaggle challenge by Home Credit we have used various machine learning methods to predict their clients repayment abilities. Doing so will ensure that clients capable of repayment are not rejected and that loans are given with a principal, maturity, and repayment calendar that will empower their clients to be successful.
 
-<p align = "center"><img width="800" img height="600" src=https://github.com/siddh30/Home_Credit_Default_Risk/blob/master/logo.png> </p>
+<p align = "center"><img width="800" img height="500" src=https://github.com/siddh30/Home_Credit_Default_Risk/blob/master/logo.png> </p>
  
